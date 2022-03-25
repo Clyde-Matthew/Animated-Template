@@ -1,5 +1,3 @@
-'use strict'
-
 
   AOS.init({
       delay:200,
